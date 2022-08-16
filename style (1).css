@@ -1,0 +1,38 @@
+h1 {
+            text-align: center;
+            color: rebeccapurple;
+            background: black;
+        }
+        p {
+            text-align: center;
+            color: purple;
+        }
+        img {
+            display: block;
+            margin: 0px auto;
+        }
+        ul {
+            font-size: 18px;
+        }
+
+        .fábio{
+            font-weight: bold;
+            color: purple;
+        }
+
+        .meu {
+            font-weight: bold;
+            color: silver;
+        }
+
+        .que{
+            font-weight: bold;
+            color: rebeccapurple;
+        }
+
+        .maioral {
+            font-weight: bold;
+            color: black;
+        }
+
+        
